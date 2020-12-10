@@ -1,2 +1,2 @@
 # Pricing-component-with-toggle
-This is one the challenge from frontendmentor.io
+This is one of the challenges from frontendmentor.io
